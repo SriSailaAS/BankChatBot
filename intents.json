@@ -141,6 +141,37 @@
       "patterns":[
         "Who are/Am I eligible for business loan?",
         "Any restrictions for business loan?",
-        "
+        "How/What is the procedure to get business loan?"
+        ],
+      "responses":[
+        "You should own an organisation/company under wour name. You should submit the proof"
+        ]
+    },
+    {
+      "tag":"digitalproducts",
+      "patterns":[
+        "Can you tell about the digital products this bank provide?",
+        "Does ABC bank offer digital products ?",
+        "What are the digital products?"
+        ],
+      "responses":[
+      "Yes. ABC bank provides many digitalproducts like mobile banking, Online banking, UPI facilities, etc."
+      ]
+},
+    {
+      "tag":"Thankyou",
+      "patterns":[
+        "Thank you for your service.",
+        "Bye Shera",
+        "Bye",
+        "Thank You",
+        "Thank you so much Shera."
+        ],
+      "responses":[
+        "Welcome. It is my pleasure."
+        "Bye",
+        "Welcome."
+        ]
+    }
   ]
 }
