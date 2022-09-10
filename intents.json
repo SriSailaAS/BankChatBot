@@ -135,6 +135,12 @@
         "Yes.You need to submit the admission letter of an institute and fee schedule and also submit the marksheets.",
         "You must submit an institute's admission letter and fee schedule, as well as your marksheets."
       ]
-    }
+    },
+    {
+      "tag" : "businessloan",
+      "patterns":[
+        "Who are/Am I eligible for business loan?",
+        "Any restrictions for business loan?",
+        "
   ]
 }
